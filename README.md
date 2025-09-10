@@ -19,9 +19,10 @@ It demonstrates the basic setup, development workflow, and deployment process of
 
 ## 📷 Screenshots  
 👉 Screenshots of the project will be attached below:  
-
-![App Screenshot](./screenshots/homepage.png)  
-![Console Output](./screenshots/console.png)  
+<img width="1895" height="865" alt="image" src="https://github.com/user-attachments/assets/4adf3737-97aa-49e8-aff5-fc5b0b237d40" />
+<img width="1902" height="865" alt="image" src="https://github.com/user-attachments/assets/e1ee30af-abfd-4e94-b125-88d3d2074bc1" />
+<img width="1896" height="866" alt="image" src="https://github.com/user-attachments/assets/a2bfcd63-e2c2-4222-bcd9-9ab995050183" />
+<img width="1918" height="868" alt="image" src="https://github.com/user-attachments/assets/799aec02-afa9-457f-9b89-a8ca4a4937aa" />
 
 ---
 
