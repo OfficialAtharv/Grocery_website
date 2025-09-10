@@ -1,70 +1,97 @@
-# Getting Started with Create React App
+# 🚀 React App – Class Assignment  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created using [Create React App](https://github.com/facebook/create-react-app).  
+It demonstrates the basic setup, development workflow, and deployment process of a React application.  
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📌 Project Overview  
+- **Framework:** React.js  
+- **Bootstrapped With:** Create React App  
+- **Purpose:** Class assignment submission  
+- **Features:**  
+  - React development server setup  
+  - Build optimization for production  
+  - Testing environment with `npm test`  
+  - Configurations available with `npm run eject`  
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📷 Screenshots  
+👉 Screenshots of the project will be attached below:  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![App Screenshot](./screenshots/homepage.png)  
+![Console Output](./screenshots/console.png)  
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Available Scripts  
 
-### `npm run build`
+In the project directory, you can run:  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### ▶️ `npm start`  
+Runs the app in development mode.  
+Open **[http://localhost:3000](http://localhost:3000)** in your browser to view it.  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The page will reload if you make edits, and you may also see lint errors in the console.  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+### 🧪 `npm test`  
+Launches the test runner in interactive watch mode.  
+More info: [Running Tests](https://facebook.github.io/create-react-app/docs/running-tests).  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 📦 `npm run build`  
+Builds the app for production in the `build` folder.  
+- React is bundled in production mode.  
+- Optimized for performance.  
+- Filenames include hashes.  
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Your app is ready to be deployed!  
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+### ⚙️ `npm run eject`  
+**Note:** This is a one-way operation. Once you eject, you can’t go back.  
+This copies all configuration files (webpack, Babel, ESLint, etc.) into your project, giving you full control.  
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🚀 How to Run the Project  
 
-### Code Splitting
+Follow these steps to run the project on your local system:  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+1. **Clone the repository**  
+   ```bash
+   git clone <repository-url>
+   cd <project-folder>
 
-### Analyzing the Bundle Size
+2.Install dependencies
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+npm install
 
-### Making a Progressive Web App
+3.Run the development server
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+npm start
 
-### Advanced Configuration
+4.Build for production (optional)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+npm run build
 
-### Deployment
+📌 Assignment Notes
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This project is part of my MCA coursework.
 
-### `npm run build` fails to minify
+The screenshots attached show the successful execution and output of the application.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Demonstrates understanding of:
+
+Running a React project locally
+
+Building for production
+
+Project documentation with README
+✨ Prepared by: Atharv Kulkarni
+📅 Submission Date: September 2025
